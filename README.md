@@ -1,4 +1,57 @@
-## Hi there 👋
+# Hi 👋 I'm Taarni
+
+✨ Welcome to my GitHub Profile ✨
+
+🎓 BSc Data Science Student  
+💻 Passionate about Python & Data Science  
+📊 Learning Data Analysis and Visualization  
+🌱 Currently exploring Pandas, NumPy & Matplotlib  
+🚀 Beginner Developer with Big Dreams  
+
+---
+
+## 🚀 Skills
+
+🐍 Python  
+📊 Data Science  
+📈 Matplotlib  
+🧠 Pandas & NumPy   
+
+---
+
+## 📚 Currently Learning
+
+- Data Visualization  
+- Machine Learning Basics  
+- DSA in Python    
+
+---
+
+## 📌 Projects
+
+✨ Customer Buying Pattern Analysis  
+✨ Python Mini Projects  
+✨ Data Visualization Dashboard  
+✨ Student Management System  
+
+---
+
+## 🌟 Goals
+
+✔ Improve coding skills  
+✔ Build amazing projects  
+✔ Become a successful Data Scientist  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: aarruthakur1422@gmail.com 
+📷 Instagram: aarru_thakur001 
+
+---
+
+⭐ Thanks for visiting my profile ⭐
 
 <!--
 **TaarniThakur/TaarniThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
