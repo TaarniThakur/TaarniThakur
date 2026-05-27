@@ -30,8 +30,11 @@
 ## 📌 Projects
 -Sales Data Analysis
 ✨[Sales-Data-Analysis](https://github.com/TaarniThakur/Sales-Data-Analysis)
+-Data-Visualization-Without-Charts
+✨[Data-Visualization-Without-Charts](https://github.com/TaarniThakur/Data-Visualization-Without-Charts)
 -
-✨ 
+✨
+
 
 ---
 
