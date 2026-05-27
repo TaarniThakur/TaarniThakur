@@ -28,11 +28,10 @@
 ---
 
 ## 📌 Projects
-
-✨ Customer Buying Pattern Analysis  
-✨ Python Mini Projects  
-✨ Data Visualization Dashboard  
-✨ Student Management System  
+-Sales Data Analysis
+✨[Sales-Data-Analysis](https://github.com/TaarniThakur/Sales-Data-Analysis)
+-
+✨ 
 
 ---
 
