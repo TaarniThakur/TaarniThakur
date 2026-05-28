@@ -52,12 +52,12 @@
 📷 Instagram: aarru_thakur001 
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaarnThakur&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaarniThakur&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaarnThakur&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaarniThakur&layout=compact&theme=tokyonight)
+
 ---
 
 ⭐ Thanks for visiting my profile ⭐
