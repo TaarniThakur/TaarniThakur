@@ -53,7 +53,7 @@
 
 ---
 
-📊 GitHub Stats
+📊 "GitHub Stats"
 
 "GitHub Stats" (https://github-readme-stats.vercel.app/api?username=TaarnThakur&show_icons=true&theme=tokyonight)
 
